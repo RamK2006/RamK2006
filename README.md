@@ -1,7 +1,7 @@
 # Hi there, I'm Ram Kumar Bissa! 👋
 
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RamK2006" alt="Profile Views" />
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RamK2006&left_text=Profile%20Views" height="35" alt="Profile Views" />
 </p>
 
 ### 🚀 Full Stack Developer, AI/ML Developer & Blockchain Enthusiast
