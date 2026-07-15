@@ -1,17 +1,23 @@
 # Hi there, I'm Ram Kumar Bissa! 👋
+
 <p align="left">
-  <a href="https://github.com/RamK2006">
-    <img src="https://komarev.com/ghvc/?username=RamK2006&color=00f2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
+  <img src="https://views.igorkowalczyk.dev/api/badge/RamK2006?color=00f2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
-> **Full Stack Developer, AI/ML Developer & Blockchain Enthusiast**
+
+### 🚀 Full Stack Developer, AI/ML Developer & Blockchain Enthusiast
+
 ---
+
 ### 💫 About Me
+
 * 🎓 **Education**: Pursuing B.Tech in Electronics and Communication Engineering at **Indian Institute of Information Technology, Pune (IIIT Pune)** (2024 - 2028).
 * 💻 **Role**: Full Stack Developer & AI/ML Developer building decentralized and AI-driven platforms.
 * 🎯 **Fields of Interest**: Web Development (MERN Stack), Blockchain & Web3, AI/ML (LSTM Forecasting, NLP), and Cybersecurity.
+
 ---
+
 ### 🛠️ Tech Stack & Tools
+
 #### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -20,6 +26,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+
 #### 🌐 Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -28,12 +35,14 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
+
 #### 💾 Databases & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
+
 #### 🔗 Web3, AI & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon" />
@@ -41,6 +50,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
+
 #### 🔧 Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -49,27 +59,28 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
+
 ---
-### 🏆 Github Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RamK2006&theme=darkhub&column=7&no-bg=true" alt="Github Trophies" />
-  </a>
-</p>
----
+
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=RamK2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="RamK2006's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RamK2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="RamK2006's Top Languages" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RamK2006&theme=dark&hide_border=false" alt="RamK2006's GitHub Streak" width="98%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamK2006&theme=react-dark" alt="RamK2006's Activity Graph" width="98%" />
 </p>
+
 ---
+
 ### 🐍 Contribution Graph
+
 <details open>
   <summary><b>Contribution Snake Animation 📈</b></summary>
   <br/>
@@ -80,8 +91,11 @@
   
   *Automated by GitHub Actions using the [.github/workflows/snake.yml](.github/workflows/snake.yml) workflow running every 12 hours.*
 </details>
+
 ---
+
 ### 🤝 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ram-kumar-bissa-a12a69411" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
