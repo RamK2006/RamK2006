@@ -12,7 +12,7 @@
 
 * 🎓 **Education**: Pursuing B.Tech in Electronics and Communication Engineering at **Indian Institute of Information Technology, Pune (IIIT Pune)** (2024 - 2028).
 * 💻 **Role**: Full Stack Developer & AI/ML Developer building decentralized and AI-driven platforms.
-* 🎯 **Fields of Interest**: Web Development (MERN Stack), Blockchain & Web3, AI/ML (LSTM Forecasting, NLP), and Cybersecurity.
+* 🎯 **Fields of Interest**: Web Development (MERN Stack), AI/ML, Blockchain & Web3, and Cybersecurity.
 
 ---
 
@@ -108,8 +108,5 @@
   </a>
   <a href="https://ramk2006.github.io/PortFolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0052FF?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://codeforces.com/profile/ram_231" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-FF8000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
