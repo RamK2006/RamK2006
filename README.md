@@ -13,6 +13,7 @@
 * 🎓 **Education**: Pursuing B.Tech in Electronics and Communication Engineering at **Indian Institute of Information Technology, Pune (IIIT Pune)** (2024 - 2028).
 * 💻 **Role**: Full Stack Developer & AI/ML Developer building decentralized and AI-driven platforms.
 * 🎯 **Fields of Interest**: Web Development (MERN Stack), AI/ML, Blockchain & Web3, and Cybersecurity.
+* 🌐 **Portfolio**: Check out my work at [portfolioram-three.vercel.app](https://portfolioram-three.vercel.app/)
 
 ---
 
@@ -106,7 +107,7 @@
   <a href="mailto:rammkumar23108@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://ramk2006.github.io/PortFolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0052FF?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  <a href="https://portfolioram-three.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0052FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
